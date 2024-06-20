@@ -10,7 +10,7 @@ https://discord.gg/SDHjZt9wYt
 Join us in the TS-Disc-Control Discord to recieve notifications of updates, get help, and partake in discussions about features being implemented and to help choose the new features for each release!
 
 ## Current Status
-As of 02/19/23 the project is active and taking change requets. Join us on discord at the link below or put in an issue. We don't guarantee a response time but if you let us know how negatively something is impacting your community we will do our best to make the top problems a priority.
+As of 06/20/2024 the project is on hiatus. Join our discord for community support. We will accept pull requests as possible. Another project converting this to C# also exists and is in progress however is also on hiatus if you would like to contribute to that project reach out on discord. 
 
 Readme is in flux, working on figuring out a new documentation strategy if you have specific requests for documentation please join us on Discord and provide your thoughts or provide feedback on #20
 

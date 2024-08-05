@@ -36,8 +36,8 @@ class Database {
     );
     await this.executeNonQuery(`CREATE TABLE IF NOT EXISTS roles (
                       id integer PRIMARY KEY AUTOINCREMENT,
-                      discordName text NOT NULL UNIQUE,
-                      teamspeakName text NOT NULL UNIQUE
+                      discordName text NOT NULL,
+                      teamspeakName text NOT NULL
                   )`);
     await this.executeNonQuery(`CREATE TABLE IF NOT EXISTS settings (
                       id integer PRIMARY KEY AUTOINCREMENT,
